@@ -1,4 +1,4 @@
-# reaper_of_recruiter
+# Auot job aligner
 Programmers want their tasks to get completed with as little as possible waiting time. If a build pipeline takes longer than 10 minutes, it gets optimized, if unit test takes longer than 45 seconds, it gets rewritten without any obsticles. The same should got for getting a job. 
 
 This will be a platform for programmers, by (a) programmer(s)
