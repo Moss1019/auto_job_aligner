@@ -11,3 +11,10 @@ The vision for this project is simple. To align the requirements of the position
 4. The system goes to work by finding relevant positions for the developer and relevant developers for the position
 5. Each party gets the repective list and contact between already closly aligning parties can begin
 
+## Environment
+1. .NET with C#
+2. React
+3. Docker
+4. Kubernetes
+5. SQL server
+6. (Some sort of big data prosessing platform)
